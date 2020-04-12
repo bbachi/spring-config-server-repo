@@ -1,0 +1,4 @@
+config:
+  name: config server
+  environment: Test
+message: From Test
